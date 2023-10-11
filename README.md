@@ -4,11 +4,11 @@ This project was made by me, with purpose to demonstrate how a app must consume 
 
 
 This project was made using the following tecnologies:
-ReactJS
-MaterialUI
-Styled-Components
-Axios 
-JS HTML and CSS
+ReactJS,
+MaterialUI,
+Styled-Components,
+Axios, 
+JS, HTML and CSS
 
 Projeto em reactJS usando api PokeAPI de pokemons.
 
