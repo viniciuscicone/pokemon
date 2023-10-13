@@ -12,7 +12,7 @@ JS, HTML and CSS
 
 Projeto em reactJS usando api PokeAPI de pokemons.
 
-link : https://imaginative-vacherin-080551.netlify.app/
+link : pokeio.netlify.app
 
 
 
